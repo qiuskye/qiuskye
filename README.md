@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img height="195" src="https://github-stats-extended.vercel.app/api?username=qiuskye&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=qiuskye&theme=dark&hide_border=true" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=qiuskye&theme=dark&hide_border=true" />
   <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qiuskye&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
